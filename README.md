@@ -1,16 +1,13 @@
 # flutter_web3_sample
 
-A new Flutter project.
+MetaMaskの残高表示と、送金のdemoです。
 
-## Getting Started
+## 参考
 
-This project is a starting point for a Flutter application.
+https://pub.dev/packages/flutter_web3
 
-A few resources to get you started if this is your first Flutter project:
+https://ethereum.stackexchange.com/questions/39454/how-to-convert-biginteger-balance-from-wei-to-eth-in-objective-c
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## デモ動画
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/17683316/165049996-6c008825-5ecc-4b56-b863-ab19b1aac4f7.mov
